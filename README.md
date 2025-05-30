@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Z-kyomu
-- 👀 I’m interested in AI and actually dev front end
-- 🌱 I’m currently learning React
+- 👀 I’m interested in AI and actually dev a website
+- 🌱 I’m currently learning React and Bun
 - 📫 How to reach me zendkyomu@gmail.com
-- 😄 Pronouns: he
 
 <!---
 Z-kyomu/Z-kyomu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
